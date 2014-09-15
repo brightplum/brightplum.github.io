@@ -27,23 +27,17 @@
 	background: rgb(96,59,129);
 }
 
+.page-heading .left,
+.page-heading .right {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.page-heading .right {
+    margin-left: 35px;
+}
+
 /* ----------- */
-
-.page__about .page-heading {
-	background: ;
-}
-
-.page__portfolio .page-heading {
-	background: ;
-}
-
-.page__blog .page-heading {
-	background: ;
-}
-
-.page__contact .page-heading {
-	background: ;
-}
 
 /**
  * Highlight color settings for page elements
