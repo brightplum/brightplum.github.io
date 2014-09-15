@@ -27,14 +27,8 @@
 	background: rgb(96,59,129);
 }
 
-.page-heading .left,
-.page-heading .right {
-    display: inline-block;
-    vertical-align: middle;
-}
-
-.page-heading .right {
-    margin-left: 35px;
+.page-heading .g-66 {
+    margin-top: 30px;
 }
 
 /* ----------- */
