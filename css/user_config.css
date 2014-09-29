@@ -27,6 +27,10 @@
 	background: rgb(96,59,129);
 }
 
+.page-heading h2 {
+	line-height: 1.3em;
+}
+
 .page-heading .g-66 {
     margin-top: 30px;
 }
